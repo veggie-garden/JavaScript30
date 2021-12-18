@@ -1,1 +1,3 @@
-﻿[Day 1 - JavaScript Drum Kit](.\"01 - JavaScript Drum Kit"\index-START.html)
+﻿# 01
+Day 1 - JavaScript Drum Ki
+[ ] 2021-Dec-18
