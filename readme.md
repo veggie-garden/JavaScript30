@@ -10,4 +10,4 @@ Day 2 - [JS and CSS Clock](https://veggie-garden.github.io/JavaScript30/02%20-%2
 
 ## Day 3
 Day 3 - [CSS Variables](https://veggie-garden.github.io/JavaScript30/03%20-%20CSS%20Variables/index.html)
-- [ ] 2021-Dec-21
+- [x] 2021-Dec-21
