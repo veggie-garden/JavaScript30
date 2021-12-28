@@ -13,9 +13,9 @@ Day 3 - [CSS Variables](https://veggie-garden.github.io/JavaScript30/03%20-%20CS
 - [x] 2021-Dec-21
 
 ## Day 4
-Day 4 - [Array Cardio Day 1](https://veggie-garden.github.io/JavaScript30/04%20-%20Array%20Cardio%20%Day%201/index.html)
+Day 4 - [Array Cardio Day 1](https://veggie-garden.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html)
 - [x] 2021-Dec-23 ~ 2021-Dec-24
 
 ## Day 5
-Day 5 - [Flex Panel Gallery](https://veggie-garden.github.io/JavaScript30/05%20-%20Flex%20Panel%20%Gallery%20/index.html)
+Day 5 - [Flex Panel Gallery](https://veggie-garden.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index.html)
 - [x] 2021-Dec-29
