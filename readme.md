@@ -19,3 +19,7 @@ Day 4 - [Array Cardio Day 1](https://veggie-garden.github.io/JavaScript30/04%20-
 ## Day 5
 Day 5 - [Flex Panel Gallery](https://veggie-garden.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index.html)
 - [x] 2021-Dec-29
+
+## Day 6
+Day 6 - [Type Ahead]()
+- [x] 2022-Jan-03
