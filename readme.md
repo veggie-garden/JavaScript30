@@ -14,12 +14,14 @@ Day 3 - [CSS Variables](https://veggie-garden.github.io/JavaScript30/03%20-%20CS
 
 ## Day 4
 Day 4 - [Array Cardio Day 1](https://veggie-garden.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html)
-- [x] 2021-Dec-23 ~ 2021-Dec-24
+- [x] 2021-Dec-23 
+- [x] 2021-Dec-24
 
 ## Day 5
 Day 5 - [Flex Panel Gallery](https://veggie-garden.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index.html)
 - [x] 2021-Dec-29
 
 ## Day 6
-Day 6 - [Type Ahead]()
+Day 6 - [Type Ahead](https://veggie-garden.github.io/JavaScript30/06%20-%20Type%20Ahead/index.html)
 - [x] 2022-Jan-03
+- [x] 2022-Jan-07
